@@ -1,0 +1,9 @@
+{
+    "terminal.integrated.shell.windows": "C:\\WINDOWS\\System32\\cmd.exe",
+    "workbench.iconTheme": "vscode-icons",
+    "window.zoomLevel": 1,
+    "editor.renderControlCharacters": true,
+    "editor.wordWrap": "on",
+    "workbench.startupEditor": "newUntitledFile",
+    "editor.fontFamily": "Consolas, Meiryo, 'Courier New', monospace"
+}
